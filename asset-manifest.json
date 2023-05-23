@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/oniichan-collections/static/css/main.0d3f2c0d.css",
-    "main.js": "/oniichan-collections/static/js/main.164a4d63.js",
+    "main.css": "/oniichan-collections/static/css/main.487b0cca.css",
+    "main.js": "/oniichan-collections/static/js/main.ce8e35a1.js",
     "static/media/arm-chair-01.jpg": "/oniichan-collections/static/media/arm-chair-01.ec17d40c57ba24fe8783.jpg",
     "static/media/remixicon.svg?t=1590207869815": "/oniichan-collections/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/remixicon.eot?t=1590207869815": "/oniichan-collections/static/media/remixicon.5cb99e6cba5a4619063f.eot",
@@ -39,11 +39,11 @@
     "static/media/final-hero.jpg": "/oniichan-collections/static/media/final-hero.e6d066619d6ed63dc9e5.jpg",
     "static/media/hero-chopp.png": "/oniichan-collections/static/media/hero-chopp.36b50e478a90782fa899.png",
     "index.html": "/oniichan-collections/index.html",
-    "main.0d3f2c0d.css.map": "/oniichan-collections/static/css/main.0d3f2c0d.css.map",
-    "main.164a4d63.js.map": "/oniichan-collections/static/js/main.164a4d63.js.map"
+    "main.487b0cca.css.map": "/oniichan-collections/static/css/main.487b0cca.css.map",
+    "main.ce8e35a1.js.map": "/oniichan-collections/static/js/main.ce8e35a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d3f2c0d.css",
-    "static/js/main.164a4d63.js"
+    "static/css/main.487b0cca.css",
+    "static/js/main.ce8e35a1.js"
   ]
 }
